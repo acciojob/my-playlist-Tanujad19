@@ -5,7 +5,7 @@ h1 {
 h2 {
 	text-align: center;
 }
-a:hover {
+a{
     text-decoration-line: none;
 }
 ul{
